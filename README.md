@@ -3,7 +3,7 @@
 This document outlines the steps a user can follow to permanently delete their account. Please note that deleting your account will erase all associated data.
 
 ### Prerequisites:
-* The user must be logged into their account.
+* The user must be logged into their Uhuru account.
 
 ### Steps:
 
